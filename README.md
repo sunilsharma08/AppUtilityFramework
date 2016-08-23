@@ -1,5 +1,5 @@
 # AppUtility
-Helps you to make your life easier.
+AppUtility is collection of small codesnipets that we needed in almost every project like converting color hex to rgb, checking internet connectivity, etc.
 
 # Installation
 ## Manually
