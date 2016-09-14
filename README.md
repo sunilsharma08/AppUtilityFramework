@@ -1,5 +1,5 @@
 # AppUtility
-AppUtility is collection of small codesnipets that we needed in almost every project like converting color hex to rgb, checking internet connectivity, etc.
+AppUtility is collection of small code snipets that we needed in almost every project like converting color hex to rgb, checking internet connectivity, etc.
 
 # Installation
 
