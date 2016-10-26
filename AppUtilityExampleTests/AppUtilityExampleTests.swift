@@ -21,7 +21,7 @@ class AppUtilityExampleTests: XCTestCase {
     }
     
     func testExample() {
-        XCTAssert(5 > 2)
+        XCTAssert(5 < 2)
     }
     
     func testPerformanceExample() {
